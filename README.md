@@ -13,4 +13,5 @@ Nicolas Steven T. Sy - 11711299
 Navigate to the "Scanner" folder and include an input file in the directory. Open the command prompt and enter the following:
 
 javac Main.java
+
 java Main
