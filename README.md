@@ -14,5 +14,3 @@ Navigate to the "Scanner" folder and include an input file in the directory. Ope
 
 javac Main.java
 java Main
-
-# DFA Implementation
